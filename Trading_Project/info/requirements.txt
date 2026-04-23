@@ -1,0 +1,10 @@
+numpy==2.4.4
+pandas==2.3.1
+xarray==2026.2.0
+requests==2.32.4
+scikit-learn==1.7.1
+xgboost==3.2.0
+lightgbm==4.6.0
+matplotlib==3.10.3
+cryptography==45.0.6
+torch==2.11.0
